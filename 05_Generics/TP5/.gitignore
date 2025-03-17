@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+.vs/
+bin/
+obj/
+=======
+# Ignore build files
+bin/
+obj/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.cache
+>>>>>>> generic-method
