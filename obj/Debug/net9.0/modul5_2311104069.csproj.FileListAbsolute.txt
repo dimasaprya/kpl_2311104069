@@ -1,0 +1,15 @@
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/bin/Debug/net9.0/modul5_2311104069
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/bin/Debug/net9.0/modul5_2311104069.deps.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/bin/Debug/net9.0/modul5_2311104069.runtimeconfig.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/bin/Debug/net9.0/modul5_2311104069.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/bin/Debug/net9.0/modul5_2311104069.pdb
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.AssemblyInfoInputs.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.AssemblyInfo.cs
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.sourcelink.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/refint/modul5_2311104069.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.pdb
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/modul5_2311104069.genruntimeconfig.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/05_Generics/modul5_2311104069/obj/Debug/net9.0/ref/modul5_2311104069.dll
