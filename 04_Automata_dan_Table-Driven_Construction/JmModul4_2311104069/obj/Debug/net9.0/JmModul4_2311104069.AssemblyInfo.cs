@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JmModul4_2311104069")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75df70cbbfe28dfbf82619e54d900fe0fafc9639")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+636634cf6f49916bbffb4980fd2592236e269aca")]
 [assembly: System.Reflection.AssemblyProductAttribute("JmModul4_2311104069")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JmModul4_2311104069")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
