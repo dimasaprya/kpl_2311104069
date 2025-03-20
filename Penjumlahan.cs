@@ -1,16 +1,12 @@
 using System;
 
-namespace modul5_NIM
+public class Penjumlahan
 {
-    class Penjumlahan
+    public T JumlahTigaAngka<T>(T a, T b, T c) where T : struct
     {
-        // Tambahkan keyword static di method ini
-        public static T JumlahTigaAngka<T>(T angka1, T angka2, T angka3) where T : struct
-        {
-            dynamic a = angka1;
-            dynamic b = angka2;
-            dynamic c = angka3;
-            return a + b + c;
-        }
+        dynamic x = a;
+        dynamic y = b;
+        dynamic z = c;
+        return x + y + z;
     }
 }
