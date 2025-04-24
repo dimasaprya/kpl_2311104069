@@ -1,0 +1,15 @@
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\bin\Debug\net8.0\TP_Modul6.exe
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\bin\Debug\net8.0\TP_Modul6.deps.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\bin\Debug\net8.0\TP_Modul6.runtimeconfig.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\bin\Debug\net8.0\TP_Modul6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\bin\Debug\net8.0\TP_Modul6.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.AssemblyInfoInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.AssemblyInfo.cs
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.sourcelink.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\refint\TP_Modul6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\TP_Modul6.genruntimeconfig.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\TP_Modul6\TP_Modul6\obj\Debug\net8.0\ref\TP_Modul6.dll
