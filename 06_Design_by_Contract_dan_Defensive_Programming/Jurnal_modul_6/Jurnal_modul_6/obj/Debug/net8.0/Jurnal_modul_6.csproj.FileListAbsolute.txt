@@ -1,0 +1,15 @@
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\bin\Debug\net8.0\Jurnal_modul_6.exe
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\bin\Debug\net8.0\Jurnal_modul_6.deps.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\bin\Debug\net8.0\Jurnal_modul_6.runtimeconfig.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\bin\Debug\net8.0\Jurnal_modul_6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\bin\Debug\net8.0\Jurnal_modul_6.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.AssemblyInfoInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.AssemblyInfo.cs
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.sourcelink.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\refint\Jurnal_modul_6.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\Jurnal_modul_6.genruntimeconfig.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\06_Design_by_Contract_dan_Defensive_Programming\Jurnal_modul_6\Jurnal_modul_6\obj\Debug\net8.0\ref\Jurnal_modul_6.dll
