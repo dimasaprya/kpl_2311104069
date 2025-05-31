@@ -1,0 +1,15 @@
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\bin\Debug\net8.0\Jurnal14.exe
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\bin\Debug\net8.0\Jurnal14.deps.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\bin\Debug\net8.0\Jurnal14.runtimeconfig.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\bin\Debug\net8.0\Jurnal14.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\bin\Debug\net8.0\Jurnal14.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.AssemblyInfoInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.AssemblyInfo.cs
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.csproj.CoreCompileInputs.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.sourcelink.json
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\refint\Jurnal14.dll
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.pdb
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\Jurnal14.genruntimeconfig.cache
+C:\Users\fahmi\source\repos\KPL_2311104074_SE0702\14_Clean_Code\Jurnal14\Jurnal14\obj\Debug\net8.0\ref\Jurnal14.dll
