@@ -1,0 +1,11 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="TpModul3_2311104069.MainWindow"
+        Title="Aplikasi Praktikum"
+        Width="400" Height="200">
+    <StackPanel>
+        <TextBox Name="txtInput" Width="300" Margin="10"/>
+        <Button Name="btnSubmit" Content="Submit" Click="BtnSubmit_Click" Width="100" Margin="10"/>
+        <TextBlock Name="lblOutput" Width="300" Margin="10"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9E1D2F72-8ACC-43D8-BB83-646F9A9D0C63}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpmod3_2311104069/DoorMechine.cs">
+    <Files>
+      <File FileName="tpmod3_2311104069/KodePos.cs" Line="51" Column="2" />
+      <File FileName="tpmod3_2311104069/DoorMechine.cs" Line="22" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tpmod3_2311104069">
+            <Node name="tpmod3_2311104069">
+              <Node name="DoorMechine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.tpmod3__2311104069 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
