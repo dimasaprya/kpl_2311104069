@@ -1,48 +1,44 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using tpmodul9_2311104074.Models;
+using tpmodul9_2311104069.Model;
 
-namespace tpmodul9_2311104074.Controllers
+namespace tpmodul9_2311104069.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
     public class MahasiswaController : ControllerBase
     {
-        private static List<Mahasiswa> mahasiswaList = new List<Mahasiswa>
+        private static List<Mahasiswa> daftarMahasiswa = new List<Mahasiswa>
         {
-            new Mahasiswa { Nama = "Fahmi Hasan Asagaf", Nim = "2311104074" },
-            new Mahasiswa { Nama = "Laila", Nim = "C0B023745" },
-            new Mahasiswa { Nama = "Faishal", Nim = "2311104066" }
+            new Mahasiswa { Nama = "Nama Kamu", Nim = "2311104069" },
+            new Mahasiswa { Nama = "Teman 1", Nim = "2311104003" },
+            new Mahasiswa { Nama = "Teman 2", Nim = "2311104006" }
         };
 
         [HttpGet]
-        public ActionResult<List<Mahasiswa>> GetAll()
-        {
-            return mahasiswaList;
-        }
+        public ActionResult<List<Mahasiswa>> Get() => daftarMahasiswa;
 
         [HttpGet("{index}")]
-        public ActionResult<Mahasiswa> GetByIndex(int index)
+        public ActionResult<Mahasiswa> Get(int index)
         {
-            if (index < 0 || index >= mahasiswaList.Count)
-                return NotFound("Mahasiswa tidak ditemukan");
-            return mahasiswaList[index];
+            if (index < 0 || index >= daftarMahasiswa.Count)
+                return NotFound("Index tidak ditemukan.");
+            return daftarMahasiswa[index];
         }
 
         [HttpPost]
-        public ActionResult AddMahasiswa([FromBody] Mahasiswa newMahasiswa)
+        public ActionResult<List<Mahasiswa>> Post([FromBody] Mahasiswa mhs)
         {
-            mahasiswaList.Add(newMahasiswa);
-            return Ok("Mahasiswa berhasil ditambahkan");
+            daftarMahasiswa.Add(mhs);
+            return daftarMahasiswa;
         }
 
         [HttpDelete("{index}")]
-        public ActionResult DeleteMahasiswa(int index)
+        public ActionResult<List<Mahasiswa>> Delete(int index)
         {
-            if (index < 0 || index >= mahasiswaList.Count)
-                return NotFound("Index tidak valid");
-
-            mahasiswaList.RemoveAt(index);
-            return Ok("Mahasiswa berhasil dihapus");
+            if (index < 0 || index >= daftarMahasiswa.Count)
+                return NotFound("Index tidak ditemukan.");
+            daftarMahasiswa.RemoveAt(index);
+            return daftarMahasiswa;
         }
     }
 }

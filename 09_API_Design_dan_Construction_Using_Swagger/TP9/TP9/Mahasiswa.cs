@@ -1,4 +1,4 @@
-﻿namespace tpmodul9_2311104074.Models
+﻿namespace tpmodul9_2311104069.Model
 {
     public class Mahasiswa
     {

@@ -2,22 +2,18 @@
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
-        var config = new BankTransferConfig();
+        BankTransferConfig config = BankTransferConfig.LoadConfig();
+        string lang = config.lang;
 
-        // Lang prompt
-        if (config.Lang == "en")
-            Console.Write("Please insert the amount of money to transfer: ");
-        else
-            Console.Write("Masukkan jumlah uang yang akan di-transfer: ");
-
+        Console.WriteLine(lang == "en" ? "Please insert the amount of money to transfer:" : "Masukkan jumlah uang yang akan di-transfer:");
         int amount = int.Parse(Console.ReadLine());
 
-        int fee = amount <= config.Transfer.Threshold ? config.Transfer.LowFee : config.Transfer.HighFee;
+        int fee = amount <= config.transfer.threshold ? config.transfer.low_fee : config.transfer.high_fee;
         int total = amount + fee;
 
-        if (config.Lang == "en")
+        if (lang == "en")
         {
             Console.WriteLine($"Transfer fee = {fee}");
             Console.WriteLine($"Total amount = {total}");
@@ -28,36 +24,28 @@ class Program
             Console.WriteLine($"Total biaya = {total}");
         }
 
-        // Metode transfer
-        if (config.Lang == "en")
-            Console.WriteLine("Select transfer method:");
-        else
-            Console.WriteLine("Pilih metode transfer:");
-
-        for (int i = 0; i < config.Methods.Count; i++)
+        Console.WriteLine(lang == "en" ? "Select transfer method:" : "Pilih metode transfer:");
+        for (int i = 0; i < config.methods.Count; i++)
         {
-            Console.WriteLine($"{i + 1}. {config.Methods[i]}");
+            Console.WriteLine($"{i + 1}. {config.methods[i]}");
         }
 
-        Console.Write(">> ");
-        Console.ReadLine(); // input metode transfer (tidak diproses lanjut)
+        Console.ReadLine(); // Input pilihan metode transfer (tidak digunakan lebih lanjut)
 
-        // Konfirmasi
-        if (config.Lang == "en")
-            Console.Write($"Please type \"{config.Confirmation.En}\" to confirm the transaction: ");
-        else
-            Console.Write($"Ketik \"{config.Confirmation.Id}\" untuk mengkonfirmasi transaksi: ");
+        string confirmationWord = lang == "en" ? config.confirmation.en : config.confirmation.id;
+        Console.WriteLine(lang == "en" ?
+            $"Please type \"{confirmationWord}\" to confirm the transaction:" :
+            $"Ketik \"{confirmationWord}\" untuk mengkonfirmasi transaksi:");
 
-        string confirm = Console.ReadLine();
+        string confirmInput = Console.ReadLine();
 
-        if ((config.Lang == "en" && confirm.ToLower() == config.Confirmation.En.ToLower()) ||
-            (config.Lang == "id" && confirm.ToLower() == config.Confirmation.Id.ToLower()))
+        if (confirmInput.ToLower() == confirmationWord.ToLower())
         {
-            Console.WriteLine(config.Lang == "en" ? "The transfer is completed" : "Proses transfer berhasil");
+            Console.WriteLine(lang == "en" ? "The transfer is completed" : "Proses transfer berhasil");
         }
         else
         {
-            Console.WriteLine(config.Lang == "en" ? "Transfer is cancelled" : "Transfer dibatalkan");
+            Console.WriteLine(lang == "en" ? "Transfer is cancelled" : "Transfer dibatalkan");
         }
     }
 }
