@@ -1,0 +1,15 @@
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/bin/Debug/net8.0/tp8
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/bin/Debug/net8.0/tp8.deps.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/bin/Debug/net8.0/tp8.runtimeconfig.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/bin/Debug/net8.0/tp8.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/bin/Debug/net8.0/tp8.pdb
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.AssemblyInfoInputs.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.AssemblyInfo.cs
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.sourcelink.json
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/refint/tp8.dll
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.pdb
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/tp8.genruntimeconfig.cache
+/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/obj/Debug/net8.0/ref/tp8.dll

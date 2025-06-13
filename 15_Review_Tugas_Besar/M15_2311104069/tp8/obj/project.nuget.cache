@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vcemwGbZkhI=",
+  "success": true,
+  "projectFilePath": "/Users/apple/Documents/KPL_DIMASABHIPRAYARAMANSYAH_SE0702/15_Review_Tugas_Besar/M15_2311104069/tp8/tp8.csproj",
+  "expectedPackageFiles": [
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.ref/8.0.13/microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.13/microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "/Users/apple/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.13/microsoft.netcore.app.host.osx-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
